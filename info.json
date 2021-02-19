@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "5766596d6fca4413367ad872e46657ae088c60c1",
+    "author": "Scott Chamberlain <sckott@fastmail.com>",
+    "time": "2021-02-19 18:39:26",
+    "files": 2,
+    "merge": false,
+    "message": "fix #28 error better on 400/500 errors\n"
+  },
+  "remote": "https://github.com/ropensci/ghql",
+  "pkg": "ghql"
+}

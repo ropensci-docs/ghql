@@ -1,0 +1,10 @@
+pandoc: '2.5'
+pkgdown: 1.6.1
+pkgdown_sha: ~
+articles:
+  ghql: ghql.html
+last_built: 2021-07-18T19:55Z
+urls:
+  reference: https://docs.ropensci.org/ghql/reference
+  article: https://docs.ropensci.org/ghql/articles
+

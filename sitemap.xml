@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://docs.ropensci.org/ghql/index.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/ghql/reference/Fragment.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/ghql/reference/GraphqlClient.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/ghql/reference/Query.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/ghql/reference/ghql-package.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/ghql/articles/ghql.html</loc>
+  </url>
+</urlset>

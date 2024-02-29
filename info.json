@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "51ce54b4e0167bc8dd6e2511209eea060688b717",
+    "author": "mpadge <mark.padgham@email.com>",
+    "time": "2023-01-03 09:08:29",
+    "files": 3,
+    "merge": false,
+    "message": "revert workflow name: 'R-check' not 'R-CMD-check'\n"
+  },
+  "repo": "https://github.com/ropensci/ghql",
+  "pkg": "ghql"
+}

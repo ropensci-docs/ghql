@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "10f872475e97041965e470304343dbf86ba3c034",
+    "author": "mark padgham <mark.padgham@email.com>",
+    "time": "2026-02-18T15:17:45Z",
+    "files": 1,
+    "merge": true,
+    "message": "Merge pull request #38 from ropensci/maelle-patch-3\n\ndocs: register as staff-maintained"
+  },
+  "repo": "https://github.com/ropensci/ghql",
+  "pkg": "ghql",
+  "time": "2026-08-30T07:39:42Z"
+}
